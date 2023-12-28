@@ -25,7 +25,7 @@ const ImageOfCert = (props: { linkName: string, photo: string, photoName: string
   return (
     <Link href={props.linkName} target="_blank">
       <img
-        className="sm:w-[400px] sm:h-[300px] w-[350px] h-[250px] opacity-30 rounded-[10px] mb-[3rem] duration-300 hover:w-[380px] hover:h-[280px] sm:hover:w-[450px] sm:hover:h-[350px] sm:hover:opacity-100 hover:p-9"
+        className="sm:w-[400px] sm:h-[300px] w-[350px] h-[250px] opacity-30 rounded-[10px] mb-[3rem] duration-300 hover:w-[380px] hover:h-[280px] sm:hover:w-[450px] sm:hover:h-[350px] sm:hover:opacity-100 hover:opacity-100 hover:p-9"
         src={props.photo}
         alt={props.photoName}
       />
