@@ -31,7 +31,7 @@ const MyProfile = () => {
           My main portfolio:{" "}
           <a
             className="sm:text-red-700 sm:underline sm:hover:text-[1.2rem] sm:hover:p-2 sm:duration-300 text-red-700 underline hover:text-[0.8rem] hover:p-2 duration-300"
-            href="https://sayyedsaad-portfolio.vercel.app/"
+            href="https://sayyedsaad-portfolio.netlify.app/"
             target="_blank"
           >
             Click Here
