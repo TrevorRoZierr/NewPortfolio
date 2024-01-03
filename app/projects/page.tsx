@@ -43,8 +43,8 @@ const Projects = () => {
           <div className="flex justify-center items-center flex-row">
             <h1 className="text-white text-[1.8rem] font-semibold">3 - </h1>
             <ProjLinks
-              linkName="https://sayyedsaad-portfolio.vercel.app/"
-              projLinkName="Twitch Clone"
+              linkName="https://hoslow-gym-app.vercel.app/"
+              projLinkName="Gym Exercise App"
             />
           </div>
         </div>
